@@ -1,76 +1,72 @@
 ---
-title: "Theory Seminars - Bristol Physics"
+title: "Theory Group Seminars "
+subtitle: "University of Bristol - School of Physics"
 ---
 
 ## 2026
 
-<ul>
-  <li style="padding-bottom: 10px">Monday 5th October 2026
-    <strong>Tony Short</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote>Recurrence of finite quantum systems
-<em>As a finite quantum system evolves, different initial states will evolve very differently. However, it is possible to find a time at which all states return arbitrarily close to their initial configuration. We obtain bounds on the time for this recurrence, by linking it to the mathematical problem of approximating real numbers by rationals.
+**Monday 5th October 2026 — Tony Short**
 
-(based on arXiv:2604.14995)</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 19th October 2026
-    <strong>Habib Rostami</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 2nd November 2026
-    <strong>Speaker TBC</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 16th November 2026
-    <strong>Natalia Chepiga</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 30th November 2026
-    <strong>Speaker TBC</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-</ul>
+<details class="abstract"><summary>Click to expand abstract</summary>
+Recurrence of finite quantum systems
+
+*As a finite quantum system evolves, different initial states will evolve very differently. However, it is possible to find a time at which all states return arbitrarily close to their initial configuration. We obtain bounds on the time for this recurrence, by linking it to the mathematical problem of approximating real numbers by rationals.*
+
+*(based on arXiv:2604.14995)*
+</details>
+
+**Monday 19th October 2026 — Habib Rostami**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 2nd November 2026 — Speaker TBC**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 16th November 2026 — Natalia Chepiga**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 30th November 2026 — Speaker TBC**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
 
 ## 2027
 
-<ul>
-  <li style="padding-bottom: 10px">Monday 1st February 2027
-    <strong>Antonia Mey</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 15th February 2027
-    <strong>Speaker TBC</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 1st March 2027
-    <strong>Steve Simon</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 15th March 2027
-    <strong>Speaker TBC</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-  <li style="padding-bottom: 10px">Monday 19th April 2027
-    <strong>Speaker TBC</strong>
-    <details><summary><i><u>[Click to expand abstract]</u></i></summary>
-      <blockquote><em>Abstract TBA</em></blockquote>
-    </details>
-  </li>
-</ul>
+**Monday 1st February 2027 — Antonia Mey**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 15th February 2027 — Speaker TBC**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 1st March 2027 — Steve Simon**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 15th March 2027 — Speaker TBC**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>
+
+**Monday 19th April 2027 — Speaker TBC**
+
+<details class="abstract"><summary>Click to expand abstract</summary>
+*Abstract TBA*
+</details>

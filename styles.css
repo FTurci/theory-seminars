@@ -1,1 +1,57 @@
 /* custom styles */
+
+/* University of Bristol red accent */
+:root {
+  --bristol-red: #A41E22;
+}
+
+a {
+  color: var(--bristol-red);
+}
+
+a:hover {
+  color: #7a1519;
+}
+
+h1, h2, h3 {
+  color: var(--bristol-red);
+}
+
+.navbar {
+  background-color: var(--bristol-red) !important;
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #fff !important;
+}
+
+.navbar .nav-link:hover {
+  color: #f1d6d6 !important;
+}
+
+/* neutral, minimal styling for collapsible abstracts */
+details.abstract {
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+details.abstract summary {
+  cursor: pointer;
+  color: #495057;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+details.abstract summary:hover {
+  color: #212529;
+}
+
+details.abstract[open] summary {
+  margin-bottom: 6px;
+}
+
+details.abstract > *:not(summary) {
+  padding-left: 1em;
+  border-left: 2px solid var(--bristol-red);
+}

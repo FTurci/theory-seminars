@@ -5,7 +5,7 @@ subtitle: "University of Bristol - School of Physics"
 
 ## 2026
 
-**Monday 5th October 2026 — Tony Short**
+**Monday 5th October 2026 — Tony Short** (University of Bristol)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
 Recurrence of finite quantum systems
@@ -15,7 +15,7 @@ Recurrence of finite quantum systems
 *(based on arXiv:2604.14995)*
 </details>
 
-**Monday 19th October 2026 — Habib Rostami**
+**Monday 19th October 2026 — Habib Rostami** (University of Bath)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
 *Abstract TBA*
@@ -27,7 +27,7 @@ Recurrence of finite quantum systems
 *Abstract TBA*
 </details>
 
-**Monday 16th November 2026 — Natalia Chepiga**
+**Monday 16th November 2026 — Natalia Chepiga** (University of Oxford)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
 *Abstract TBA*
@@ -41,7 +41,7 @@ Recurrence of finite quantum systems
 
 ## 2027
 
-**Monday 1st February 2027 — Antonia Mey**
+**Monday 1st February 2027 — Antonia Mey** (University of Edinburgh)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
 *Abstract TBA*
@@ -53,7 +53,7 @@ Recurrence of finite quantum systems
 *Abstract TBA*
 </details>
 
-**Monday 1st March 2027 — Steve Simon**
+**Monday 1st March 2027 — Steve Simon** (University of Oxford)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
 *Abstract TBA*

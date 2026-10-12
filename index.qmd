@@ -18,7 +18,9 @@ Recurrence of finite quantum systems
 **Monday 19th October 2026 — Habib Rostami** (University of Bath)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
-*Abstract TBA*
+From Hidden Collective Modes to Nonlinear Response in Quantum Materials
+
+*Collective excitations and nonlinear responses provide powerful probes of symmetry, interactions, and quantum geometry in condensed matter systems. In this talk, I will discuss three theoretical developments: demon and Fano-demon modes in altermagnets, nonlinear quantum Hall transport in interacting Dirac systems, and a quantum-geometric theory of light-induced Raman forces. Together, these examples highlight how symmetry, electronic interactions, and quantum geometry shape collective phenomena and nonlinear light–matter responses in quantum materials.*
 </details>
 
 **Monday 2nd November 2026 — Speaker TBC**

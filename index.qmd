@@ -23,10 +23,16 @@ From Hidden Collective Modes to Nonlinear Response in Quantum Materials
 *Collective excitations and nonlinear responses provide powerful probes of symmetry, interactions, and quantum geometry in condensed matter systems. In this talk, I will discuss three theoretical developments: demon and Fano-demon modes in altermagnets, nonlinear quantum Hall transport in interacting Dirac systems, and a quantum-geometric theory of light-induced Raman forces. Together, these examples highlight how symmetry, electronic interactions, and quantum geometry shape collective phenomena and nonlinear light–matter responses in quantum materials.*
 </details>
 
-**Monday 2nd November 2026 — Speaker TBC**
+**Monday 2nd November 2026 — Chaim Goodman-Strauss** (Museum of Mathematics, New York)
 
 <details class="abstract"><summary>Click to expand abstract</summary>
-*Abstract TBA*
+
+The Monotiling problem and other questions
+
+(Joint Maths Colloquium / Theoretical Physics seminar)
+
+*The famous Penrose tiles, the hat monotile Dave Smith discovered in 2023, and the very new, LLM-found, three-dimensional Chair44 are aperiodic: they shapes that can form tessellations, but only non-periodic ones. The discovery of aperiodic monotiles suggests the "Monotiling problem" (whether or not a given shape can form a tessellation) may be computationally undecidable. We'll survey a web of similar questions about monotiles.*
+
 </details>
 
 **Monday 16th November 2026 — Natalia Chepiga** (University of Oxford)
